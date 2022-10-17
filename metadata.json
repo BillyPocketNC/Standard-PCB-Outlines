@@ -1,0 +1,32 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Standard PCB Outlines",
+    "description": "These are Standard IPC board Outlines",
+    "description_full": "This package contains footprints for IPC standard outlines",
+    "identifier": "com.github.perigoso.keyswitch-kicad-library",
+    "type": "library",
+    "author": {
+        "name": "Billy (on behalf of Penta Machine Co.)",
+        "contact": {
+            "email": "billy+GithubKiCad@gmail.com"
+        }
+    },
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "Github": "https://github.com/BillyPocketNC/Standard-PCB-Outlines"
+    },
+    "tags": [
+        "footprint",
+        "library",
+        "PCB",
+        "outline",
+        "edgeCuts"
+    ],
+    "versions": [
+        {
+            "version": "0.0",
+            "status": "unstable",
+            "kicad_version": "6.0"
+        }
+    ]
+}
